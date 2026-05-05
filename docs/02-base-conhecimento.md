@@ -52,11 +52,33 @@ Isso reduz custo de tokens e melhora precisão das respostas.
 ```
 Dados do Cliente:
 - Nome: João Silva
-- Perfil: Moderado
-- Saldo disponível: R$ 5.000
+- Idade: 32 anos
+- Profissão: Analista de Sistemas
+- Renda mensal: R$ 5.000
+- Perfil de investidor: Moderado
+- Objetivo principal: Construir reserva de emergência
+- Patrimônio total: R$ 15.000
+- Reserva de emergência atual: R$ 10.000
+- Aceita risco: Não
 
-Últimas transações:
-- 01/11: Supermercado - R$ 450
-- 03/11: Streaming - R$ 55
-...
+Metas financeiras:
+1. Completar reserva de emergência (R$ 15.000 até 2026-06)
+2. Entrada do apartamento (R$ 50.000 até 2027-12)
+
+Resumo de gastos recentes:
+- Moradia: R$ 1.380
+- Alimentação: R$ 570
+- Transporte: R$ 295
+- Lazer: R$ 55,90
+- Saúde: R$ 188
+
+Histórico de atendimento:
+- Cliente buscou informações sobre CDB e Tesouro Selic
+- Já acompanha progresso da reserva de emergência
+- Já teve dúvidas sobre funcionamento do Tesouro Direto
+
+Produtos recomendados:
+- Tesouro Selic
+- CDB Liquidez Diária
+- LCI/LCA
 ```

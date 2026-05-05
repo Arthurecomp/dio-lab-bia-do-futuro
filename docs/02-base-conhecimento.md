@@ -2,7 +2,7 @@
 
 ## Dados Utilizados
 
-Descreva se usou os arquivos da pasta `data`, por exemplo:
+Os dados utilizados foram os arquivos fornecidos na pasta data/, estruturados para permitir análise financeira completa do usuário, personalização de recomendações e contextualização de respostas.
 
 | Arquivo | Formato | Utilização no Agente |
 |---------|---------|---------------------|
@@ -18,9 +18,7 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 ## Adaptações nos Dados
 
-> Você modificou ou expandiu os dados mockados? Descreva aqui.
-
-[Sua descrição aqui]
+Os dados utilizados foram os arquivos mockados fornecidos na pasta data/, sem alterações estruturais significativas.
 
 ---
 
@@ -29,12 +27,21 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 ### Como os dados são carregados?
 > Descreva como seu agente acessa a base de conhecimento.
 
-[ex: Os JSON/CSV são carregados no início da sessão e incluídos no contexto do prompt]
+Os arquivos CSV e JSON são carregados no início da execução da aplicação utilizando bibliotecas como pandas e json. Esses dados ficam disponíveis em memória durante toda a sessão do agente.
 
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
 
-[Sua descrição aqui]
+Os dados não são colocados integralmente no prompt, mas sim processados e filtrados antes de serem enviados ao LLM.
+
+Estratégia aplicada:
+
+* O CSV de transações é resumido (ex: total por categoria)
+* O perfil do investidor é convertido em texto estruturado
+* Produtos financeiros são filtrados com base no perfil do usuário
+* Apenas informações relevantes são injetadas no contexto do prompt
+
+Isso reduz custo de tokens e melhora precisão das respostas.
 
 ---
 

@@ -4,35 +4,45 @@
 
 ### Problema
 > Qual problema financeiro seu agente resolve?
-
-[Sua descrição aqui]
+Muitos usuários não conseguem compreender sua própria vida financeira de forma clara e estruturada. Eles têm dificuldade em identificar padrões de gastos, entender se estão economizando ou gastando em excesso e escolher investimentos adequados ao seu perfil. Além disso, a informação financeira costuma ser fragmentada e pouco personalizada, o que dificulta a tomada de decisão.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+O agente atua como um consultor financeiro pessoal inteligente, analisando automaticamente o histórico de transações e o perfil do investidor do usuário. Ele identifica padrões de consumo, alerta sobre comportamentos financeiros relevantes (como aumento de gastos ou baixa capacidade de investimento) e sugere ações personalizadas.
+
+Diferente de um chatbot reativo, ele:
+
+Antecipará problemas financeiros (ex: excesso de gastos em lazer)
+Sugerirá ajustes de orçamento
+Indicará produtos financeiros adequados ao perfil do usuário
+Explicará decisões de forma simples e consultiva
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
+Pessoas que querem organizar suas finanças pessoais
+Usuários iniciantes em investimentos
+Clientes de bancos digitais ou fintechs
+Jovens adultos buscando educação financeira prática
+Usuários que desejam acompanhamento financeiro automatizado
 
 ---
 
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-[Nome escolhido]
+FinBot (Assistente Financeiro Inteligente)
 
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
 
-[Sua descrição aqui]
+O FinBot é um assistente consultivo, analítico e proativo. Ele não apenas responde perguntas, mas interpreta dados financeiros e sugere melhorias. Ele age como um assessor financeiro digital, sempre com foco em clareza, responsabilidade e personalização.
 
 ### Tom de Comunicação
 > Formal, informal, técnico, acessível?
 
-[Sua descrição aqui]
+O tom é acessível e levemente consultivo, evitando jargões técnicos. O objetivo é educar sem complicar, mantendo uma linguagem clara e objetiva, adequada para usuários com diferentes níveis de conhecimento financeiro.
 
 ### Exemplos de Linguagem
 - Saudação: [ex: "Olá! Como posso ajudar com suas finanças hoje?"]
@@ -78,4 +88,9 @@ flowchart TD
 ### Limitações Declaradas
 > O que o agente NÃO faz?
 
-[Liste aqui as limitações explícitas do agente]
+Não realiza operações financeiras reais (apenas simulações e recomendações)
+Não acessa dados externos em tempo real (ex: mercado financeiro ao vivo)
+Não substitui consultoria financeira profissional certificada
+Não garante retorno financeiro sobre recomendações
+Não faz previsões exatas de mercado ou investimentos
+Não toma decisões automáticas em nome do usuário

@@ -4,6 +4,7 @@
 
 ### Problema
 > Qual problema financeiro seu agente resolve?
+
 Muitos usuários não conseguem compreender sua própria vida financeira de forma clara e estruturada. Eles têm dificuldade em identificar padrões de gastos, entender se estão economizando ou gastando em excesso e escolher investimentos adequados ao seu perfil. Além disso, a informação financeira costuma ser fragmentada e pouco personalizada, o que dificulta a tomada de decisão.
 
 ### Solução
@@ -13,10 +14,10 @@ O agente atua como um consultor financeiro pessoal inteligente, analisando autom
 
 Diferente de um chatbot reativo, ele:
 
-Antecipará problemas financeiros (ex: excesso de gastos em lazer)
-Sugerirá ajustes de orçamento
-Indicará produtos financeiros adequados ao perfil do usuário
-Explicará decisões de forma simples e consultiva
+* Antecipará problemas financeiros (ex: excesso de gastos em lazer)
+* Sugerirá ajustes de orçamento
+* Indicará produtos financeiros adequados ao perfil do usuário
+* Explicará decisões de forma simples e consultiva
 
 ### Público-Alvo
 > Quem vai usar esse agente?

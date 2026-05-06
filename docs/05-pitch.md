@@ -6,7 +6,7 @@
 ## Roteiro Sugerido
 
 ### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+
 Hoje, muitas pessoas têm dificuldade em entender e organizar suas finanças pessoais. Aplicativos bancários mostram dados, mas não explicam o que fazer com eles. O usuário acaba recebendo informações genéricas, sem contexto e sem personalização.
 Além disso, consultorias financeiras tradicionais são caras e inacessíveis para grande parte das pessoas.
 O resultado é que muitos usuários não conseguem tomar decisões financeiras conscientes.
@@ -14,8 +14,6 @@ O resultado é que muitos usuários não conseguem tomar decisões financeiras c
 [Sua descrição aqui]
 
 ### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
-
 Para resolver isso, foi desenvolvido um Agente Financeiro Inteligente com IA Generativa, que atua como um consultor financeiro personalizado.
 Esse agente utiliza dados reais do cliente, como histórico de transações, perfil de investidor e objetivos financeiros, para gerar recomendações personalizadas.
 Ele consegue:
